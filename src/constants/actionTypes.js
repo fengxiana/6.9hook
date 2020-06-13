@@ -1,0 +1,12 @@
+// home
+export const FETCH_HOME_DATA = 'FETCH_HOME_DATA'
+export const FETCH_HOME_TYPE = 'FETCH_HOME_TYPE'
+export const FETCH_HOME_ADD = 'FETCH_HOME_ADD'
+export const FETCH_HOME_UPDATE = 'FETCH_HOME_UPDATE'
+export const FETCH_HOME_DELETE = 'FETCH_HOME_DELETE'
+
+//login
+export const FETCH_LOGIN_INTO = 'FETCH_LOGIN_INTO'
+
+//registe
+export const FETCH_REGISTE_INTO = 'FETCH_REGISTE_INTO'
